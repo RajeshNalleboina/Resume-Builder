@@ -1,0 +1,108 @@
+body{
+	text-align: center;
+	background-color:#F0F8FF; /*#ea0ff3;*/
+	padding: 0;
+  	margin: 0;
+  	font-family: "Roboto", sans-serif;
+
+}
+h1{
+	border-radius: 5px;
+	padding: 0 20px 0 20px;
+	box-shadow: 2px 5px 8px 0 blue;
+	color: white;
+	width: 100%;
+	font-size: 40px;
+ 	color: #f5a623;
+ 	line-height: 48px;
+ 	display: inline;
+
+}
+
+.flex-container{
+	/*background-color: red;*/
+	display: flex;
+	justify-content: space-around;
+	/*border-radius: 10px;*/
+	padding: 30px;
+}
+.rajesh{
+	background-color: #fedfef;
+	box-shadow: 0 8px 8px 0 red;
+	border-radius: 10px;
+
+}
+.rajesh:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+img{
+	border-radius: 10px;
+}
+.add img{
+	width: 50px;
+	height:50px;
+	margin-top: 10px;
+	background-color: red;
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+
+	.flex-container{
+		flex-wrap: wrap;
+	}
+	.rajesh{
+		background-color: #eee9e9;
+		box-shadow: 0 5px 8px 0 red;
+		max-width: 740px;
+		margin-top: 10px;
+	}
+	img{
+		max-width: 740px;
+	}
+
+}
+
+@media only screen and (min-device-width : 500px) and (max-device-width : 768px){
+
+	.flex-container{
+		width: auto;
+	}
+	.rajesh{
+		width: auto;
+	}
+	img{
+		width: auto;
+		margin: 0 10px 0 0;
+	}
+}
+@media only screen and (min-device-width:250px) and (max-device-width:500px){
+
+	.flex-container{
+		width: 330px;
+    flex-wrap: wrap;
+
+	}
+	.rajesh{
+		width:100%;
+		display: flex;
+		padding-left: .75em;
+    margin-bottom: 1em;
+
+	}
+	.cardimage{
+		width: 50%;
+		padding: 10px;
+		flex-wrap: wrap;
+		margin-right: .5em;
+
+	}
+	.card{
+		flex-wrap: wrap;
+		padding-top: 2.5em;
+		width: 50%;
+	}
+	h1{
+		text-align: center;
+	}
+
+}

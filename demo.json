@@ -1,0 +1,59 @@
+{
+	"basics": {
+    "image": "img/img.png",
+    "name": "Rajesh Nalleboina",
+		"des": "Software Trainee",
+		"fname": "S/o N Ravindra Babu",
+		"email": "rajesh.n@apssdc.in",
+		"phone": "9100965113",
+    "address": "Vangipuram, Prathipadu, Guntur - 522015",
+		"state": "Andhra Pradesh",
+    "country": "INDIA",
+    "languages": "English, Hindi and Telugu"
+
+	},
+	"education": {
+    "cobject": " To have my career in a progressive organization that gives a scope to apply my Knowledge and Technical skills to work dynamically for the growth of organization.",
+		"exp": "Working in Andhra Pradesh State Skill Development Corporation for 2.7 years. Trained 700 faculty members and 1lakh+ students for google india code to learn contest and my role is trainer cum team lead, and also Trained B.Tech Students on their Projects in the areas of Web Designing and Programming in HTML & PHP Environment and also trained MIT App Inventor tool to develop Android applications, And now learning Android using Android Studio, and also learning new approach PWA(Progressive Web App)"
+  },
+  "projectexp": {
+		"dlp": "Government authorized centres, and authorized educational institutions with appropriate infrastructure will be utilised to train and empower the women (in SHGs) on IT literacy in Gram Panchayat/ Villages/ Mandals of each district in the state of Andhra Pradesh",
+		"flp": "It is proposed to bring digital financial transaction awareness among the public as demonetization has resulted in cash crunch. The Government have decided to take up a campaign from 2nd December, 2016 onwards on digital financial literacy for cashless transactions. Huge advantage for Entrepreneurs to build startups that help in making India a Cashless country - Dept of Skill Development, Entreprenuership & innovation's goal is to encourage Entrepreneurship & Innovation culture in Educational Institutions"
+	},
+  "technicalskils": {
+		"os": "WINDOWS, LINUX",
+		"lang": "Basics of JAVA, HTML, JavaScript & PHP, MySQL,Bootstrap.",
+		"tools": "MS OFFICE, MIT App Inventor",
+		"wt": "HTML"
+	},
+  "edu":{
+		"graduation": "Bachelor of Technology, St.Ann's College Of Engineering And Technology,Jawaharlal Nehru Technological University, Kakinada 2011-15, Secured: 65% of marks",
+		"intermediate": "Board of Intermediate Education, AP. Bharthi Jr College, Chirala,  2009-2011, Secured:80% of marks",
+		"ssc": "Board of Secondary Education, 2009, ZPH School,Vangipuram, Secured: 70% of marks"
+	},
+	"awards": {
+		"awrds": "Awarded Zonal Level Robotics of NRC 2013-2014 conducted by IIT MUMBAI at St. Ann's College of Engineering & Technology"
+	},
+	"publications": [{
+    "title":"IJUET :",
+		"pub": "When i'm Studying Bachelor degree my project publishing in International Journal of u- and e- Service, Science and Technology  Prognostication of Climate Using Sliding Window Algorithm"
+	},
+  {
+    "title":"IEEE :",
+    "pub": "When i'm Studying Bachelor degree my project publishing in International Journal of u- and e- Service, Science and Technology  Prognostication of Climate Using Sliding Window Algorithm"
+  }
+],
+"index":[{
+		"image":"img/vasu.jpg",
+		"name":"Vasu Gopi I",
+		"des":"Jr Software Trainee",
+		"emp":"APSSDC"
+	},
+	{
+	"image":"img/rajesh.jpg",
+	"name":"Rajesh Nalleboina",
+	"des":"Software Trainee",
+	"emp":"APSSDC"
+	}]
+
+}
